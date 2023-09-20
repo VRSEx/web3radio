@@ -8,7 +8,7 @@ In addition, the incorporation of AI and machine learning could create a persona
 With the addition of the text-to-speech Chrome extension we can now incorporate ACE into our broadcasts, providing real-time translations in multiple languages and further enhancing the user experience.
 # The Decentralization Station
 
-**The radio revolution of tomorrow, today.**
+**The decentralization revolution of tomorrow, starts today.**
 
 *Introducing* **DeAd-NFTs**
 
