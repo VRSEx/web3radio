@@ -39,3 +39,24 @@ Bottom of the Hour (e.g., 12:30 PM):
 The ADHD Project envisions a future where advertising is transparent, community-driven, and supportive of content creators. With DeAd-NFTs, we invite you to be a part of this transformation, supporting our mission to make the world of decentralized media more exciting, engaging, and equitable.
 
 Together, we'll redefine advertising, empower creators, and take decentralization to the next level. Join us in this exciting journey as we revolutionize the way we support our projects and the creators behind them.
+
+
+Iteration 1: Basic DeAd-NFTs
+
+	1.	Choose the Blockchain: Determine which blockchain you want to deploy your DeAd-NFTs on. For simplicity, let’s consider Ethereum.
+	2.	Develop the Smart Contract: Write the smart contract in Solidity (Ethereum’s programming language). The contract should include functions for minting, transferring, and redeeming DeAd-NFTs. You’ll also define the metadata for each DeAd-NFT, including the advertisement content.
+	3.	Minting DeAd-NFTs: Implement a minting function that allows you to create new DeAd-NFTs. You can set limits on the total supply if needed.
+	4.	Transferring DeAd-NFTs: Include a function that enables users to transfer their DeAd-NFTs to other addresses. This might involve the standard ERC-721 transfer functions.
+	5.	Redeeming Advertisements: Users should be able to redeem their DeAd-NFTs for advertisements. Define a function that broadcasts the advertisement content associated with a specific DeAd-NFT at the designated times (top and bottom of the hour).
+	6.	Testing: Thoroughly test the smart contract on a testnet to ensure all functions work correctly. Address any bugs or issues.
+
+Iteration 2: Adding Affiliate Marketing
+
+To introduce affiliate marketing, you’ll need to enhance the smart contract to track revenue sharing among DeAd-NFT holders:
+
+	1.	Enhance the Smart Contract: Modify the smart contract to include revenue tracking. You’ll need to add mechanisms for recording revenue generated from advertisements or product sales.
+	2.	Affiliate Marketing Logic: Implement the logic for affiliate marketing. This could involve a referral system where users can refer others to advertise or purchase products through their DeAd-NFT link.
+	3.	Revenue Distribution: Define how revenue is distributed among DeAd-NFT holders. You might use a percentage-based system, where a portion of the revenue generated through referrals goes to the NFT owner and the referrer.
+	4.	User Interface: Update the user interface to display referral links and earnings. Users should be able to track their affiliate marketing performance.
+	5.	Testing: Test the enhanced smart contract on a testnet to ensure that revenue tracking and distribution work as intended.
+	6.	Deployment: Deploy the updated smart contract on your chosen blockchain.
