@@ -16,7 +16,7 @@ The ADHD Project introduces DeAd-NFTs, a groundbreaking and innovative approach 
 
 **What are DeAd-NFTs?**
 
-DeAd-NFTs, which stands for Decentralized Advertisement Non-Fungible Tokens, are a revolutionary form of digital assets that blend the power of NFTs with the world of advertising and affiliate marketingaa. These tokens represent a new era in marketing and support, where community collaboration, creativity, and ownership intersect.
+DeAd-NFTs, which stands for Decentralized Advertisement Non-Fungible Tokens, are a revolutionary form of digital assets that blend the power of NFTs with the world of advertising and affiliate marketing. These tokens represent a new era in marketing and support, where community collaboration, creativity, and ownership intersect.
 
 **Supporting the WEB3RADIO Revolution**
 
