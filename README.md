@@ -1,5 +1,5 @@
 # WEB3RADIO - The Voice of Web3
-WEB3RADIO is a decentralized music platform that provides a voice to Web3 artists, musicians, and enthusiasts.
+WEB3RADIO is a Decentralized Broadcast Network that intends to act as a platform that provides a voice to Web3 artists, musicians, citizen journalists, and enthusiasts.
 
 Why should someone build this?
 WEB3RADIO is a unique platform that combines the power of blockchain technology and music to create an ecosystem that benefits both artists and listeners.
